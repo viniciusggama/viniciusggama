@@ -1,5 +1,5 @@
 # 💫 About Me:
-olá tudo bem?<br>sou o Vinicius,<br>estudante eterno dos códigos<br>e dev front-end
+olá tudo bem?<br>sou o Vinicius,<br>estudante eterno dos códigos<br>e desenvolvedor de soluções
 
 
 ## 🌐 Socials:
